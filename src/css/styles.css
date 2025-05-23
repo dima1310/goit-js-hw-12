@@ -40,3 +40,6 @@
   object-fit: cover;
   display: block;
 }
+.is-hidden {
+  display: none;
+}
